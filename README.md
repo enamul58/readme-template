@@ -148,7 +148,7 @@ http://www.google.com
 
 ### Image add with Markdown syntax
 
-![sky] (./sky.JPG)
+![sky] (./sky.jpg)
 
 ### Image tag add with HTML
 
